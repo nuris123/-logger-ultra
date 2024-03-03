@@ -1,0 +1,20 @@
+{
+  "name": "logger-ultra",
+  "version": "1.0.0", 
+  "description": "Logger Ultra is a simple JavaScript logging utility with customizable log levels",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "nuris123",
+  "license": "MIT"
+}
